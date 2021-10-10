@@ -1,6 +1,9 @@
 # SalesAnalyticsPowerBI
 Data Analysis of Sales of Atliq Hardware company.
 
+Please use Latest pbix file - https://github.com/karandoshi98/SalesAnalyticsPowerBI/blob/main/Atliq_sales_insight_v1.pbix
+For SQL dunp, please use this file - https://github.com/karandoshi98/SalesAnalyticsPowerBI/blob/main/db_dump_version_2.sql
+
 1. Loaded Data to local MySQLserver, performed Priliminary exploration and gained understanding of the Data using SQL queries.[Extraction]
 2. Integrated the same local MySQL server as Data source in Power BI. Established Star Schema Data Model relationship.[Loading]
 3. Transformed and Cleaned the Data using Power Query Editor. [Transformation]

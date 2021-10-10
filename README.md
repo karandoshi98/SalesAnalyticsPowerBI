@@ -12,6 +12,8 @@ For SQL dunp, please use this file - https://github.com/karandoshi98/SalesAnalyt
    - Profit and revenue Analysis - Profit by zones, profit by market, revenue by markets, etc(Helped understand which market brings in most/least profit in comparison to revenue it generates)
    - Performance Analysis  - Analysing what market brings in the most profit and further drilling down on which are the key customers in that market. Highlighting Markets with profit margin less than the desired target
   
+Please Note: Below Visualisation Snippets are selected for Year 2020. (for demo purpose)  
+
 Data Model Visulisation - 
 ![image](https://user-images.githubusercontent.com/36358084/136692853-8e13db22-2859-48e9-9dd1-a75c6dd39832.png)
 

@@ -9,7 +9,7 @@ For SQL dunp, please use this file - https://github.com/karandoshi98/SalesAnalyt
 3. Transformed and Cleaned the Data using Power Query Editor. [Transformation]
 4. Developed Visualization pages -
    - Overall Key Data insights - Total revenue, Total profit, Revenue trend over the years, etc
-   - Profit Analysis - Profit by zones, profit by market, revenue by markets, etc(Helped understand which market brings in most/least profit in comparison to revenue it generates)
+   - Profit and revenue Analysis - Profit by zones, profit by market, revenue by markets, etc(Helped understand which market brings in most/least profit in comparison to revenue it generates)
    - Performance Analysis  - Analysing what market brings in the most profit and further drilling down on which are the key customers in that market. Highlighting Markets with profit margin less than the desired target
   
 Data Model Visulisation - 
@@ -18,7 +18,7 @@ Data Model Visulisation -
 Key Insights Page - 
 ![image](https://user-images.githubusercontent.com/36358084/136692901-f9c29bad-74ac-438a-893b-736a528a5954.png)
 
-Profit Analysis Page - 
+Profit and revenue Analysis Page - 
 ![image](https://user-images.githubusercontent.com/36358084/136692929-881d8cbe-f5c9-4a36-9e1a-cc03011cd5f6.png)
 
 Performance Analysis Page - 
